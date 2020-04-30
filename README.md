@@ -15,7 +15,7 @@ Now.. Hacking with Frida Powers!
 
     https://www.genymotion.com/
 
-    ![](https://github.com/pollonegro/polloFrida/blob/master/img/emulator.png)
+    ![](https://github.com/pollonegro/polloFrida/blob/master/img/emulatorFrida.png)
 
 
 - REQUERIMIENTOS DE SOFTWARE :
