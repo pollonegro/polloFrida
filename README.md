@@ -49,7 +49,7 @@ Now.. Hacking with Frida Powers!
 
     1. Ejecutar Genymotion, arrastrar "Genymotion ARM Translation" al interior, flasherar y reiniciar.
     
-    ![](https://github.com/pollonegro/polloFrida/blob/master/img/emulatorFrida.png)
+    ![](https://github.com/pollonegro/polloFrida/blob/master/img/armgeny.png)
     
     
     2. Arrastrar "XposedInstaller_3.1.5.apk" y "Inspeckage2.4.apk" al interior de Genymotion.
