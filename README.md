@@ -9,7 +9,7 @@ Now.. Hacking with Frida Powers!
 
 - EMULADOR: 
 
-    ![](https://github.com/pollonegro/polloFrida/blob/master/img/genylogo.jpg)
+    ![](https://github.com/pollonegro/polloFrida/blob/master/img/genylogo.png)
 
     https://www.genymotion.com/download/
 
@@ -71,9 +71,11 @@ Now.. Hacking with Frida Powers!
 
           ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-server-up.png)
 
-          ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-adbshell.pngg)
+          ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-adbshell.png)
 
           ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-start.png)
+          
+          ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-server-dw.png)
           
           
          2 Configurar Xposed 
