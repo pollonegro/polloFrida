@@ -6,13 +6,12 @@ Now.. Hacking with Frida Powers!
 -- LABORATORIO ANDROID 8.0 --
 
 
-- DISPOSITIVO:
 
-  - Emulador  
+- EMULADOR: 
+
+   ![](https://www.genymotion.com/wp-content/themes/genymobile/img/genymobile-with-motion.svg)
 
     https://www.genymotion.com/download/
-
-    ![](https://github.com/pollonegro/polloFrida/blob/master/img/emulatorFrida.png)
 
 
 
@@ -45,6 +44,7 @@ Now.. Hacking with Frida Powers!
     
 -----------------------------------------------------------------------------------------------------
 
+
 - INSTALACION:
 
     1. Ejecutar Genymotion, arrastrar "Genymotion ARM Translation" al interior, flasherar y reiniciar.
@@ -52,11 +52,11 @@ Now.. Hacking with Frida Powers!
     ![](https://github.com/pollonegro/polloFrida/blob/master/img/armgeny.png)
     
     
-    2. Arrastrar "XposedInstaller_3.1.5.apk" y "Inspeckage2.4.apk" al interior de Genymotion.
+    2. Arrastrar "XposedInstaller_3.1.5.apk" y "Inspeckage2.4.apk" al interior de Genymotion para su instalacion.
       
     
     3. Instalación de Frida: 
-    
+   
       A. Equipo (python & pip requerido)
       
           “pip install frida-tools”
@@ -64,8 +64,11 @@ Now.. Hacking with Frida Powers!
 
       B. Emulador:
     
-
-        1 Descomprimir, instalar en dispositivo, dar permisos y ejecutar.
+        1 Descomprimir, alojar en dispositivo, dar permisos y ejecutar. (renombrado a "frida-server")
+        
+          adb push ./frida-server /data/local/tmp/
+          adb shell 'su -c setenforce 0' 
+          adb shell 'su -c /data/local/tmp/frida-server &' 
 
           ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-server-up.png)
 
@@ -80,4 +83,7 @@ Now.. Hacking with Frida Powers!
 
   
 
+
+
+frida-ps -U 
  
