@@ -10,7 +10,7 @@ Now.. Hacking with Frida Powers!
 
 
 
-2. ![Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+2. ![Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 ![](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/blob/master/DEMO/GIF/DEMO_1_Device.gif)
 
 
