@@ -2,16 +2,15 @@
 Now.. Hacking with Frida Powers!
 
 
-1. ![PREPARACION DEL LABORATORIO](https://github.com/pollonegro/polloFrida/blob/master/LAB.md)
+![PREPARACION DEL LABORATORIO](https://github.com/pollonegro/polloFrida/blob/master/LAB.md)
 ![](https://github.com/pollonegro/polloFrida/blob/master/img/burpLab.png)
 
 
 
 
 
-
-
 Tools:
+
 ![Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 
 ![Inspeckage](https://github.com/pollonegro/polloFrida/blob/master/inspLab.png)
