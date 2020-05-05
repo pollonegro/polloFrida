@@ -32,7 +32,9 @@ Tools:
 
 
 
+
 Recursos:
+
 ![RootBeer APK Sample](https://play.google.com/store/apps/details?id=com.scottyab.rootbeer.sample)
 
 ![AntiFrida](https://github.com/b-mueller/frida-detection-demo)
