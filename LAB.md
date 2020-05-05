@@ -1,9 +1,5 @@
-# polloFrida
-Now.. Hacking with Frida Powers!
 
-
-
--- LABORATORIO ANDROID 8.0 --
+-- PREPARACION LABORATORIO ANDROID 8.0 --
 
 
 
