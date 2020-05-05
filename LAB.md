@@ -61,6 +61,7 @@
     
      1. Descomprimir, alojar en dispositivo, dar permisos y ejecutar. (renombrado a "frida-server")
         
+            adb root
             adb push ./frida-server /data/local/tmp/
             adb shell 'chmod 755 /data/local/tmp/frida-server' 
             adb shell 'su -c setenforce 0' 
