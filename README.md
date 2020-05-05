@@ -10,21 +10,22 @@ Now.. Hacking with Frida Powers!
 
 
 
-2. ![Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
-![](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security/blob/master/DEMO/GIF/DEMO_1_Device.gif)
+
+Recursos:
 
 
 
+![Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+
+![Inspeckage](https://github.com/pollonegro/polloFrida/blob/master/inspLab.png)
+
+![📱objection - Runtime Mobile Exploration](https://github.com/sensepost/objection)
+
+![house toolkit](https://github.com/nccgroup/house)
 
 
 
-3. ![Inspeckage](https://github.com/pollonegro/polloFrida/blob/master/inspLab.png)
-![](https://github.com/pollonegro/polloFrida/blob/master/img/inspLab.png)
+![RootBeer APK Sample](https://play.google.com/store/apps/details?id=com.scottyab.rootbeer.sample)
 
 
 
-
-
-
-4. ![📱objection - Runtime Mobile Exploration](https://github.com/sensepost/objection)
-![](https://asciinema.org/a/8O6fjDHOdVKgPYeqITHXPp6HV.png)
