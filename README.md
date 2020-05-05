@@ -9,7 +9,7 @@ Now.. Hacking with Frida Powers!
 
 - EMULADOR: 
 
-    ![](https://github.com/pollonegro/polloFrida/blob/master/img/genylogo.png)
+    ![](https://github.com/pollonegro/polloFrida/blob/master/img/genylogo.jpg)
 
     https://www.genymotion.com/download/
 
