@@ -75,15 +75,19 @@ Now.. Hacking with Frida Powers!
           
      - Ejecutar aplicacion e instalar Xposed Framework.  
            
-     ![](https://github.com/pollonegro/polloFrida/blob/master/img/xposed.png)
+     ![](https://github.com/pollonegro/polloFrida/blob/master/img/xposedd.png)
            
           
      - Activar "Inspeckage" y "TrustMeAlready" en la pestaña modulos y reniciar
 
-     ![](https://github.com/pollonegro/polloFrida/blob/master/img/modules.png)
+     ![](https://github.com/pollonegro/polloFrida/blob/master/img/moduless.png)
            
-           
+     - Configuracion de proxy
+
+     ![](https://github.com/pollonegro/polloFrida/blob/master/img/proxy-config.png)
+          
+          
      - Verificacion
            
-     ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-start.png)
+           frida -U APLICACION
 
