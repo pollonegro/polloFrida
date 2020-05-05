@@ -56,34 +56,34 @@ Now.. Hacking with Frida Powers!
     
    C. Instalación de Frida: 
    
-      - Equipo (python & pip requerido)
+     - Equipo (python & pip requerido)
       
-          “pip install frida-tools”
+         “pip install frida-tools”
 
 
-      - Emulador:
+     - Emulador:
     
-        1. Descomprimir, alojar en dispositivo, dar permisos y ejecutar. (renombrado a "frida-server")
+     1. Descomprimir, alojar en dispositivo, dar permisos y ejecutar. (renombrado a "frida-server")
         
-           adb push ./frida-server /data/local/tmp/
-           adb shell 'chmod 755 /data/local/tmp/frida-server' 
-           adb shell 'su -c setenforce 0' 
-           adb shell 'su -c /data/local/tmp/frida-server &' 
+            adb push ./frida-server /data/local/tmp/
+            adb shell 'chmod 755 /data/local/tmp/frida-server' 
+            adb shell 'su -c setenforce 0' 
+            adb shell 'su -c /data/local/tmp/frida-server &' 
           
           
-        2. Configurar Xposed 
+     2. Configurar Xposed 
           
-           - Ejecutar aplicacion e instalar Xposed Framework.  
+     - Ejecutar aplicacion e instalar Xposed Framework.  
            
-           ![](https://github.com/pollonegro/polloFrida/blob/master/img/xposed.png)
+     ![](https://github.com/pollonegro/polloFrida/blob/master/img/xposed.png)
            
           
-           - Activar "Inspeckage" y "TrustMeAlready" en la pestaña modulos y reniciar
+     - Activar "Inspeckage" y "TrustMeAlready" en la pestaña modulos y reniciar
 
-           ![](https://github.com/pollonegro/polloFrida/blob/master/img/modules.png)
+     ![](https://github.com/pollonegro/polloFrida/blob/master/img/modules.png)
            
            
-           - Verificacion
+     - Verificacion
            
-           ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-start.png)
+     ![](https://github.com/pollonegro/polloFrida/blob/master/img/frida-start.png)
 
